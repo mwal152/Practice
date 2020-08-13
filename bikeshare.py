@@ -130,7 +130,7 @@ def load_data(city, month, day):
             View_Req = input("Error, please enter yes or no:\n") 
         print(df.head(n))
     print('Further rows not requested')
-
+    print('-'*40)
     return df
  
   
@@ -267,8 +267,6 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
             break
 
 
