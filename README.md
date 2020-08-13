@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+13-AUG-2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Program will get user inputs on which cities, weekday and month they want to know about, the program will return information on bikeshare usages within the parameters. 
 
 ### Files used
-Include the files used
-
+chicago.csv
+new_york_city.csv
+washington.csv
+python.py
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
+Special thanks to Udacity for teaching me how to do all of it! 
 
