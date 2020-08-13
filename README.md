@@ -15,5 +15,5 @@ python.py
 ### Credits
 https://pandas.pydata.org/docs/user_guide/index.html#user-guide
 
-Special thanks to Udacity for teaching me how to do all of it! 
+Special thanks to Udacity for teaching me how to do most of it! 
 
