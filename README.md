@@ -5,7 +5,7 @@
 Bikeshare Data
 
 ### Description
-Program will get user inputs on which cities, weekday and month they want to know about, the program will return information on bikeshare usages within the parameters. 
+Program will get user inputs on which cities, weekday and month they want to know about, the program will return information on bikeshare usages within the parameters. There are three cities to chose from: Chicago, Washington and New York City. 
 
 ### Files used
 chicago.csv
