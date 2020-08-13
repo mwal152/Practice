@@ -2,7 +2,7 @@
 13-AUG-2020
 
 ### Project Title
-Bikeshare Data
+Bikeshare Analysis
 
 ### Description
 Program will get user inputs on which cities, weekday and month they want to know about, the program will return information on bikeshare usages within the parameters. There are three cities to chose from: Chicago, Washington and New York City. 
